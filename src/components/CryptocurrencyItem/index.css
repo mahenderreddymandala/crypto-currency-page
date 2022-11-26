@@ -1,0 +1,29 @@
+/* Write your CSS code here */
+.currencyLogo {
+  height: 50px;
+  width: 50px;
+  margin-right: 10px;
+}
+
+.section1 {
+  display: flex;
+  flex-direction: row;
+}
+
+.section2 {
+  display: flex;
+  flex-direction: row;
+}
+
+.items-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.currencyName2 {
+}
+
+.usd {
+  margin-right: 40px;
+}

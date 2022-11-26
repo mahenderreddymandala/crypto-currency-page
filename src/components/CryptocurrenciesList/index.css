@@ -1,0 +1,32 @@
+/* Write your CSS code here */
+.heading {
+  color: #00e7ff;
+  font-size: 30px;
+}
+.sub-title {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-right: 15px;
+}
+
+.currencyName3 {
+  margin-right: 45px;
+}
+
+.s-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 75%;
+  border: 1px solid #00e7ff;
+}
+.s1-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.item {
+  list-style-type: none;
+}
